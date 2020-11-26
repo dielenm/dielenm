@@ -1,4 +1,4 @@
-[![animated](https://raw.githubusercontent.com/dielenm/dielenm/master/img/readme.svg)](https://www.thefactory.nl/)
+[![animated](/img/readme.svg)](https://www.thefactory.nl/)
 
 ### Hi there 👋 I'm Mike Dielen, Founder and CTO @ The Factory!
 
